@@ -25,6 +25,8 @@
 
 storage.googleapis.com
 runs/*
+
+.github/*
 #data/*
 !data/images/zidane.jpg
 !data/images/bus.jpg
